@@ -11,8 +11,10 @@ More details can be found later in the pdf presentation file.
 - **Data Processing**: Python scripts for cleaning, filtering, and transforming raw data into structured formats suitable for integration.
 - **Datasets**: CSV and JSON files containing information about races, riders, circuits, bikes, teams, and weather conditions.
 
+
 ## Main Files and Folders
 - `motogp_scaper.py`, `quali.py`, `race_coord.py`, `race_date_script.py`: Scripts for scraping and processing race-related data.
 - `convert_dates.py`, `meteo_script.py`: Scripts for converting and analyzing date and weather information.
 - `MotoGP_Results&Bikes/`, `MotoGP_Circuits/`, `MotoGP Race Results/`, `archive 1/`, `scraping/`: Folders containing datasets and processed data.
 
+- `motogp.ktr`: Data integration workflow file created with Pentaho, used to automate the process of merging and transforming MotoGP datasets.
