@@ -1,0 +1,2506 @@
+[
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2005-04-10",
+        "Temp_Max": 20.2,
+        "Temp_Min": 8.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2005-04-17",
+        "Temp_Max": 15.2,
+        "Temp_Min": 12.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Shanghai",
+        "Data": "2005-05-01",
+        "Temp_Max": 26.2,
+        "Temp_Min": 15.3,
+        "Precipitazione": 16.7,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2005-05-15",
+        "Temp_Max": 16.7,
+        "Temp_Min": 7.8,
+        "Precipitazione": 7.1,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2005-06-05",
+        "Temp_Max": 24.8,
+        "Temp_Min": 15.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2005-06-12",
+        "Temp_Max": 26.0,
+        "Temp_Min": 16.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2005-06-25",
+        "Temp_Max": 21.1,
+        "Temp_Min": 13.8,
+        "Precipitazione": 5.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2005-07-10",
+        "Temp_Max": 17.8,
+        "Temp_Min": 11.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Donington Park",
+        "Data": "2005-07-24",
+        "Temp_Max": 17.0,
+        "Temp_Min": 12.0,
+        "Precipitazione": 12.5,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2005-07-31",
+        "Temp_Max": 22.5,
+        "Temp_Min": 14.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2005-08-28",
+        "Temp_Max": 20.6,
+        "Temp_Min": 11.9,
+        "Precipitazione": 1.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2005-09-18",
+        "Temp_Max": 27.6,
+        "Temp_Min": 18.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2005-09-25",
+        "Temp_Max": 30.1,
+        "Temp_Min": 24.6,
+        "Precipitazione": 2.0,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2005-10-01",
+        "Temp_Max": 35.2,
+        "Temp_Min": 26.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2005-10-16",
+        "Temp_Max": 17.2,
+        "Temp_Min": 10.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Istanbul",
+        "Data": "2005-10-23",
+        "Temp_Max": 20.2,
+        "Temp_Min": 9.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2005-11-06",
+        "Temp_Max": 19.6,
+        "Temp_Min": 7.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Jerez",
+        "Data": "2006-03-26",
+        "Temp_Max": 24.0,
+        "Temp_Min": 10.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2006-04-08",
+        "Temp_Max": 26.7,
+        "Temp_Min": 20.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Istanbul",
+        "Data": "2006-04-30",
+        "Temp_Max": 14.5,
+        "Temp_Min": 9.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Shanghai",
+        "Data": "2006-05-14",
+        "Temp_Max": 23.0,
+        "Temp_Min": 13.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2006-05-21",
+        "Temp_Max": 20.1,
+        "Temp_Min": 11.5,
+        "Precipitazione": 3.0,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2006-06-04",
+        "Temp_Max": 21.3,
+        "Temp_Min": 10.4,
+        "Precipitazione": 0.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Catalunya",
+        "Data": "2006-06-18",
+        "Temp_Max": 28.0,
+        "Temp_Min": 18.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2006-06-24",
+        "Temp_Max": 23.3,
+        "Temp_Min": 13.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Donington Park",
+        "Data": "2006-07-02",
+        "Temp_Max": 27.4,
+        "Temp_Min": 15.4,
+        "Precipitazione": 0.3,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2006-07-16",
+        "Temp_Max": 21.2,
+        "Temp_Min": 13.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2006-07-23",
+        "Temp_Max": 26.0,
+        "Temp_Min": 19.6,
+        "Precipitazione": 0.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2006-08-20",
+        "Temp_Max": 23.6,
+        "Temp_Min": 15.8,
+        "Precipitazione": 9.0,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2006-09-10",
+        "Temp_Max": 29.0,
+        "Temp_Min": 23.1,
+        "Precipitazione": 1.9,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2006-09-17",
+        "Temp_Max": 19.7,
+        "Temp_Min": 8.4,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2006-09-24",
+        "Temp_Max": 22.6,
+        "Temp_Min": 14.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2006-10-15",
+        "Temp_Max": 19.7,
+        "Temp_Min": 18.4,
+        "Precipitazione": 8.9,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2006-10-29",
+        "Temp_Max": 30.4,
+        "Temp_Min": 14.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2007-03-10",
+        "Temp_Max": 25.6,
+        "Temp_Min": 17.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2007-03-25",
+        "Temp_Max": 17.4,
+        "Temp_Min": 7.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Istanbul",
+        "Data": "2007-04-22",
+        "Temp_Max": 19.3,
+        "Temp_Min": 8.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Shanghai",
+        "Data": "2007-05-06",
+        "Temp_Max": 23.5,
+        "Temp_Min": 15.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans (Bugatti)",
+        "Data": "2007-05-20",
+        "Temp_Max": 14.3,
+        "Temp_Min": 10.7,
+        "Precipitazione": 7.8,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2007-06-03",
+        "Temp_Max": 20.3,
+        "Temp_Min": 11.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Barcellona",
+        "Data": "2007-06-10",
+        "Temp_Max": 27.6,
+        "Temp_Min": 17.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Donington Park",
+        "Data": "2007-06-24",
+        "Temp_Max": 15.3,
+        "Temp_Min": 11.1,
+        "Precipitazione": 4.6,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2007-06-30",
+        "Temp_Max": 17.8,
+        "Temp_Min": 11.4,
+        "Precipitazione": 0.6,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2007-07-15",
+        "Temp_Max": 31.3,
+        "Temp_Min": 17.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2007-07-22",
+        "Temp_Max": 19.4,
+        "Temp_Min": 13.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2007-08-19",
+        "Temp_Max": 23.4,
+        "Temp_Min": 14.5,
+        "Precipitazione": 8.3,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2007-09-02",
+        "Temp_Max": 23.7,
+        "Temp_Min": 20.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2007-09-16",
+        "Temp_Max": 21.4,
+        "Temp_Min": 18.0,
+        "Precipitazione": 4.0,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2007-09-23",
+        "Temp_Max": 23.0,
+        "Temp_Min": 19.4,
+        "Precipitazione": 10.9,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2007-10-14",
+        "Temp_Max": 16.4,
+        "Temp_Min": 11.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2007-10-21",
+        "Temp_Max": 27.1,
+        "Temp_Min": 23.4,
+        "Precipitazione": 22.6,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2007-11-04",
+        "Temp_Max": 19.0,
+        "Temp_Min": 6.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2008-03-09",
+        "Temp_Max": 25.3,
+        "Temp_Min": 15.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2008-03-30",
+        "Temp_Max": 20.9,
+        "Temp_Min": 11.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2008-04-13",
+        "Temp_Max": 15.2,
+        "Temp_Min": 12.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Shanghai",
+        "Data": "2008-05-04",
+        "Temp_Max": 23.0,
+        "Temp_Min": 16.7,
+        "Precipitazione": 13.3,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Le Mans (Bugatti)",
+        "Data": "2008-05-18",
+        "Temp_Max": 17.9,
+        "Temp_Min": 7.9,
+        "Precipitazione": 2.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2008-06-01",
+        "Temp_Max": 24.7,
+        "Temp_Min": 13.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Barcellona",
+        "Data": "2008-06-08",
+        "Temp_Max": 19.6,
+        "Temp_Min": 14.5,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Donington Park",
+        "Data": "2008-06-22",
+        "Temp_Max": 17.8,
+        "Temp_Min": 12.7,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2008-06-28",
+        "Temp_Max": 20.6,
+        "Temp_Min": 15.3,
+        "Precipitazione": 3.1,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2008-07-13",
+        "Temp_Max": 16.7,
+        "Temp_Min": 11.9,
+        "Precipitazione": 6.1,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2008-07-20",
+        "Temp_Max": 15.9,
+        "Temp_Min": 10.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2008-08-17",
+        "Temp_Max": 19.2,
+        "Temp_Min": 10.9,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2008-08-31",
+        "Temp_Max": 27.5,
+        "Temp_Min": 22.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2008-09-14",
+        "Temp_Max": 26.6,
+        "Temp_Min": 18.4,
+        "Precipitazione": 4.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2008-09-28",
+        "Temp_Max": 16.8,
+        "Temp_Min": 12.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2008-10-05",
+        "Temp_Max": 15.8,
+        "Temp_Min": 7.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2008-10-19",
+        "Temp_Max": 28.4,
+        "Temp_Min": 23.5,
+        "Precipitazione": 17.6,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2008-10-26",
+        "Temp_Max": 19.7,
+        "Temp_Min": 11.4,
+        "Precipitazione": 0.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2009-04-12",
+        "Temp_Max": 27.9,
+        "Temp_Min": 23.2,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2009-04-26",
+        "Temp_Max": 19.6,
+        "Temp_Min": 9.7,
+        "Precipitazione": 5.3,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2009-05-03",
+        "Temp_Max": 24.8,
+        "Temp_Min": 15.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans (Bugatti)",
+        "Data": "2009-05-17",
+        "Temp_Max": 16.1,
+        "Temp_Min": 9.6,
+        "Precipitazione": 5.2,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2009-05-31",
+        "Temp_Max": 18.2,
+        "Temp_Min": 14.9,
+        "Precipitazione": 8.2,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Barcellona",
+        "Data": "2009-06-14",
+        "Temp_Max": 30.2,
+        "Temp_Min": 18.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2009-06-27",
+        "Temp_Max": 22.6,
+        "Temp_Min": 16.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2009-07-05",
+        "Temp_Max": 16.5,
+        "Temp_Min": 11.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2009-07-19",
+        "Temp_Max": 17.9,
+        "Temp_Min": 12.4,
+        "Precipitazione": 4.0,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Donington Park",
+        "Data": "2009-07-26",
+        "Temp_Max": 18.1,
+        "Temp_Min": 12.1,
+        "Precipitazione": 3.6,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2009-08-16",
+        "Temp_Max": 26.1,
+        "Temp_Min": 15.3,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2009-08-30",
+        "Temp_Max": 20.5,
+        "Temp_Min": 12.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2009-09-06",
+        "Temp_Max": 22.2,
+        "Temp_Min": 19.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2009-10-04",
+        "Temp_Max": 21.4,
+        "Temp_Min": 18.7,
+        "Precipitazione": 0.9,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2009-10-18",
+        "Temp_Max": 14.3,
+        "Temp_Min": 10.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2009-10-25",
+        "Temp_Max": 27.8,
+        "Temp_Min": 23.8,
+        "Precipitazione": 12.3,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2009-11-08",
+        "Temp_Max": 18.4,
+        "Temp_Min": 11.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2010-04-11",
+        "Temp_Max": 31.1,
+        "Temp_Min": 23.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2010-05-02",
+        "Temp_Max": 23.6,
+        "Temp_Min": 13.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans (Bugatti)",
+        "Data": "2010-05-23",
+        "Temp_Max": 25.5,
+        "Temp_Min": 11.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2010-06-06",
+        "Temp_Max": 26.0,
+        "Temp_Min": 17.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2010-06-20",
+        "Temp_Max": 17.3,
+        "Temp_Min": 6.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2010-06-26",
+        "Temp_Max": 22.1,
+        "Temp_Min": 10.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Barcellona",
+        "Data": "2010-07-04",
+        "Temp_Max": 29.1,
+        "Temp_Min": 20.4,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2010-07-18",
+        "Temp_Max": 21.3,
+        "Temp_Min": 15.7,
+        "Precipitazione": 4.7,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2010-07-25",
+        "Temp_Max": 16.3,
+        "Temp_Min": 11.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2010-08-15",
+        "Temp_Max": 25.3,
+        "Temp_Min": 19.3,
+        "Precipitazione": 4.8,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2010-08-29",
+        "Temp_Max": 32.7,
+        "Temp_Min": 21.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2010-09-05",
+        "Temp_Max": 23.9,
+        "Temp_Min": 19.4,
+        "Precipitazione": 1.5,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Motorland Aragón",
+        "Data": "2010-09-19",
+        "Temp_Max": 22.4,
+        "Temp_Min": 11.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2010-10-03",
+        "Temp_Max": 21.6,
+        "Temp_Min": 14.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2010-10-10",
+        "Temp_Max": 30.3,
+        "Temp_Min": 25.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2010-10-17",
+        "Temp_Max": 13.0,
+        "Temp_Min": 10.7,
+        "Precipitazione": 2.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2010-10-31",
+        "Temp_Max": 16.1,
+        "Temp_Min": 13.7,
+        "Precipitazione": 3.9,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2010-11-07",
+        "Temp_Max": 21.1,
+        "Temp_Min": 9.6,
+        "Precipitazione": 3.3,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2011-03-20",
+        "Temp_Max": 27.1,
+        "Temp_Min": 16.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2011-04-03",
+        "Temp_Max": 18.3,
+        "Temp_Min": 13.1,
+        "Precipitazione": 5.7,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2011-05-01",
+        "Temp_Max": 17.3,
+        "Temp_Min": 12.8,
+        "Precipitazione": 2.1,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Le Mans (Bugatti)",
+        "Data": "2011-05-15",
+        "Temp_Max": 16.9,
+        "Temp_Min": 7.9,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Barcellona",
+        "Data": "2011-06-05",
+        "Temp_Max": 20.2,
+        "Temp_Min": 12.8,
+        "Precipitazione": 0.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2011-06-12",
+        "Temp_Max": 13.5,
+        "Temp_Min": 5.0,
+        "Precipitazione": 9.0,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2011-06-25",
+        "Temp_Max": 15.6,
+        "Temp_Min": 9.3,
+        "Precipitazione": 2.1,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2011-07-03",
+        "Temp_Max": 26.3,
+        "Temp_Min": 13.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2011-07-17",
+        "Temp_Max": 23.7,
+        "Temp_Min": 13.1,
+        "Precipitazione": 8.9,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2011-07-24",
+        "Temp_Max": 17.2,
+        "Temp_Min": 11.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2011-08-14",
+        "Temp_Max": 24.1,
+        "Temp_Min": 12.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2011-08-28",
+        "Temp_Max": 26.3,
+        "Temp_Min": 17.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2011-09-04",
+        "Temp_Max": 29.0,
+        "Temp_Min": 23.0,
+        "Precipitazione": 2.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Motorland Aragón",
+        "Data": "2011-09-18",
+        "Temp_Max": 21.9,
+        "Temp_Min": 14.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2011-10-02",
+        "Temp_Max": 17.8,
+        "Temp_Min": 13.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2011-10-16",
+        "Temp_Max": 13.4,
+        "Temp_Min": 10.7,
+        "Precipitazione": 4.2,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2011-10-23",
+        "Temp_Max": 30.0,
+        "Temp_Min": 22.9,
+        "Precipitazione": 5.5,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2011-11-06",
+        "Temp_Max": 17.2,
+        "Temp_Min": 12.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2012-04-08",
+        "Temp_Max": 28.8,
+        "Temp_Min": 22.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2012-04-29",
+        "Temp_Max": 15.4,
+        "Temp_Min": 10.6,
+        "Precipitazione": 20.0,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Estoril",
+        "Data": "2012-05-06",
+        "Temp_Max": 15.7,
+        "Temp_Min": 12.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2012-05-20",
+        "Temp_Max": 16.4,
+        "Temp_Min": 9.8,
+        "Precipitazione": 9.1,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2012-06-03",
+        "Temp_Max": 24.4,
+        "Temp_Min": 17.4,
+        "Precipitazione": 1.5,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2012-06-17",
+        "Temp_Max": 16.3,
+        "Temp_Min": 10.5,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2012-06-30",
+        "Temp_Max": 22.4,
+        "Temp_Min": 15.5,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2012-07-08",
+        "Temp_Max": 25.7,
+        "Temp_Min": 15.1,
+        "Precipitazione": 2.7,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2012-07-15",
+        "Temp_Max": 25.1,
+        "Temp_Min": 18.9,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2012-07-29",
+        "Temp_Max": 16.8,
+        "Temp_Min": 11.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2012-08-19",
+        "Temp_Max": 23.6,
+        "Temp_Min": 15.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2012-08-26",
+        "Temp_Max": 20.2,
+        "Temp_Min": 15.4,
+        "Precipitazione": 23.5,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2012-09-16",
+        "Temp_Max": 21.5,
+        "Temp_Min": 16.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Motorland",
+        "Data": "2012-09-30",
+        "Temp_Max": 17.7,
+        "Temp_Min": 10.7,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2012-10-14",
+        "Temp_Max": 20.1,
+        "Temp_Min": 10.8,
+        "Precipitazione": 3.6,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2012-10-21",
+        "Temp_Max": 26.7,
+        "Temp_Min": 23.1,
+        "Precipitazione": 9.1,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2012-10-28",
+        "Temp_Max": 15.3,
+        "Temp_Min": 10.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2012-11-11",
+        "Temp_Max": 13.4,
+        "Temp_Min": 9.3,
+        "Precipitazione": 15.4,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2013-04-07",
+        "Temp_Max": 27.1,
+        "Temp_Min": 18.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2013-04-21",
+        "Temp_Max": 23.6,
+        "Temp_Min": 10.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2013-05-05",
+        "Temp_Max": 26.0,
+        "Temp_Min": 11.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2013-05-19",
+        "Temp_Max": 15.9,
+        "Temp_Min": 6.8,
+        "Precipitazione": 5.3,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2013-06-02",
+        "Temp_Max": 22.9,
+        "Temp_Min": 11.7,
+        "Precipitazione": 0.5,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2013-06-16",
+        "Temp_Max": 26.9,
+        "Temp_Min": 16.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2013-06-29",
+        "Temp_Max": 15.5,
+        "Temp_Min": 11.3,
+        "Precipitazione": 3.9,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2013-07-14",
+        "Temp_Max": 20.3,
+        "Temp_Min": 11.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Laguna Seca",
+        "Data": "2013-07-21",
+        "Temp_Max": 18.6,
+        "Temp_Min": 12.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2013-08-18",
+        "Temp_Max": 27.0,
+        "Temp_Min": 15.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2013-08-25",
+        "Temp_Max": 18.4,
+        "Temp_Min": 13.5,
+        "Precipitazione": 8.4,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2013-09-01",
+        "Temp_Max": 19.8,
+        "Temp_Min": 9.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2013-09-15",
+        "Temp_Max": 24.7,
+        "Temp_Min": 17.8,
+        "Precipitazione": 5.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Motorland",
+        "Data": "2013-09-29",
+        "Temp_Max": 24.1,
+        "Temp_Min": 17.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2013-10-13",
+        "Temp_Max": 28.6,
+        "Temp_Min": 23.4,
+        "Precipitazione": 1.9,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2013-10-20",
+        "Temp_Max": 26.0,
+        "Temp_Min": 15.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2013-10-27",
+        "Temp_Max": 17.5,
+        "Temp_Min": 5.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2013-11-10",
+        "Temp_Max": 23.4,
+        "Temp_Min": 13.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2014-03-23",
+        "Temp_Max": 26.7,
+        "Temp_Min": 19.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2014-04-13",
+        "Temp_Max": 26.2,
+        "Temp_Min": 18.8,
+        "Precipitazione": 1.0,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2014-04-27",
+        "Temp_Max": 25.4,
+        "Temp_Min": 16.0,
+        "Precipitazione": 0.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2014-05-04",
+        "Temp_Max": 28.9,
+        "Temp_Min": 13.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2014-05-18",
+        "Temp_Max": 22.8,
+        "Temp_Min": 9.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2014-06-01",
+        "Temp_Max": 21.7,
+        "Temp_Min": 8.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2014-06-15",
+        "Temp_Max": 23.2,
+        "Temp_Min": 16.1,
+        "Precipitazione": 9.0,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2014-06-28",
+        "Temp_Max": 19.3,
+        "Temp_Min": 13.1,
+        "Precipitazione": 4.2,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2014-07-13",
+        "Temp_Max": 19.7,
+        "Temp_Min": 11.0,
+        "Precipitazione": 4.3,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2014-08-10",
+        "Temp_Max": 29.1,
+        "Temp_Min": 21.3,
+        "Precipitazione": 2.1,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2014-08-17",
+        "Temp_Max": 19.4,
+        "Temp_Min": 10.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2014-08-31",
+        "Temp_Max": 18.3,
+        "Temp_Min": 11.1,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2014-09-14",
+        "Temp_Max": 22.6,
+        "Temp_Min": 13.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Motorland",
+        "Data": "2014-09-28",
+        "Temp_Max": 19.5,
+        "Temp_Min": 13.6,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2014-10-12",
+        "Temp_Max": 18.3,
+        "Temp_Min": 12.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2014-10-19",
+        "Temp_Max": 22.1,
+        "Temp_Min": 12.4,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2014-10-26",
+        "Temp_Max": 28.5,
+        "Temp_Min": 23.5,
+        "Precipitazione": 8.5,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2014-11-09",
+        "Temp_Max": 17.9,
+        "Temp_Min": 10.5,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2015-03-29",
+        "Temp_Max": 27.3,
+        "Temp_Min": 16.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2015-04-12",
+        "Temp_Max": 25.9,
+        "Temp_Min": 18.6,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2015-04-19",
+        "Temp_Max": 25.8,
+        "Temp_Min": 18.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2015-05-03",
+        "Temp_Max": 30.2,
+        "Temp_Min": 16.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2015-05-17",
+        "Temp_Max": 16.5,
+        "Temp_Min": 6.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2015-05-31",
+        "Temp_Max": 22.8,
+        "Temp_Min": 13.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2015-06-14",
+        "Temp_Max": 24.9,
+        "Temp_Min": 16.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2015-06-27",
+        "Temp_Max": 19.9,
+        "Temp_Min": 13.5,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2015-07-12",
+        "Temp_Max": 24.2,
+        "Temp_Min": 13.6,
+        "Precipitazione": 3.6,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Indianapolis",
+        "Data": "2015-08-09",
+        "Temp_Max": 28.4,
+        "Temp_Min": 19.9,
+        "Precipitazione": 2.0,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2015-08-16",
+        "Temp_Max": 24.4,
+        "Temp_Min": 19.2,
+        "Precipitazione": 11.3,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2015-08-30",
+        "Temp_Max": 17.2,
+        "Temp_Min": 11.2,
+        "Precipitazione": 2.3,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2015-09-13",
+        "Temp_Max": 26.2,
+        "Temp_Min": 18.3,
+        "Precipitazione": 0.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Motorland",
+        "Data": "2015-09-27",
+        "Temp_Max": 23.4,
+        "Temp_Min": 13.7,
+        "Precipitazione": 0.3,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2015-10-11",
+        "Temp_Max": 19.1,
+        "Temp_Min": 15.2,
+        "Precipitazione": 6.7,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2015-10-18",
+        "Temp_Max": 15.7,
+        "Temp_Min": 10.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2015-10-25",
+        "Temp_Max": 30.3,
+        "Temp_Min": 23.7,
+        "Precipitazione": 1.3,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2015-11-08",
+        "Temp_Max": 19.4,
+        "Temp_Min": 11.0,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2016-03-20",
+        "Temp_Max": 26.3,
+        "Temp_Min": 17.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2016-04-03",
+        "Temp_Max": 25.8,
+        "Temp_Min": 21.9,
+        "Precipitazione": 7.7,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Austin",
+        "Data": "2016-04-10",
+        "Temp_Max": 26.1,
+        "Temp_Min": 17.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2016-04-24",
+        "Temp_Max": 25.2,
+        "Temp_Min": 12.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2016-05-08",
+        "Temp_Max": 22.5,
+        "Temp_Min": 12.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2016-05-22",
+        "Temp_Max": 24.1,
+        "Temp_Min": 15.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2016-06-05",
+        "Temp_Max": 23.7,
+        "Temp_Min": 16.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2016-06-26",
+        "Temp_Max": 18.1,
+        "Temp_Min": 11.8,
+        "Precipitazione": 4.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2016-07-17",
+        "Temp_Max": 20.8,
+        "Temp_Min": 15.5,
+        "Precipitazione": 4.5,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2016-08-14",
+        "Temp_Max": 25.6,
+        "Temp_Min": 10.7,
+        "Precipitazione": 4.1,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2016-08-21",
+        "Temp_Max": 18.7,
+        "Temp_Min": 14.9,
+        "Precipitazione": 17.1,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2016-09-04",
+        "Temp_Max": 18.9,
+        "Temp_Min": 13.4,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2016-09-11",
+        "Temp_Max": 24.7,
+        "Temp_Min": 20.4,
+        "Precipitazione": 3.0,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Alcaniz",
+        "Data": "2016-09-25",
+        "Temp_Max": 24.1,
+        "Temp_Min": 14.6,
+        "Precipitazione": 0.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2016-10-16",
+        "Temp_Max": 21.1,
+        "Temp_Min": 9.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2016-10-23",
+        "Temp_Max": 11.6,
+        "Temp_Min": 9.6,
+        "Precipitazione": 0.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2016-10-30",
+        "Temp_Max": 27.4,
+        "Temp_Min": 23.6,
+        "Precipitazione": 13.5,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2016-11-13",
+        "Temp_Max": 20.3,
+        "Temp_Min": 9.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2017-03-26",
+        "Temp_Max": 23.6,
+        "Temp_Min": 19.0,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2017-04-09",
+        "Temp_Max": 21.9,
+        "Temp_Min": 16.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2017-04-23",
+        "Temp_Max": 21.8,
+        "Temp_Min": 11.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2017-05-07",
+        "Temp_Max": 28.2,
+        "Temp_Min": 13.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2017-05-21",
+        "Temp_Max": 21.0,
+        "Temp_Min": 6.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2017-06-04",
+        "Temp_Max": 24.4,
+        "Temp_Min": 14.4,
+        "Precipitazione": 0.6,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2017-06-11",
+        "Temp_Max": 32.6,
+        "Temp_Min": 19.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2017-06-25",
+        "Temp_Max": 18.5,
+        "Temp_Min": 15.0,
+        "Precipitazione": 2.8,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2017-07-02",
+        "Temp_Max": 20.3,
+        "Temp_Min": 13.9,
+        "Precipitazione": 4.8,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2017-08-06",
+        "Temp_Max": 22.5,
+        "Temp_Min": 15.5,
+        "Precipitazione": 4.4,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2017-08-13",
+        "Temp_Max": 21.7,
+        "Temp_Min": 10.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2017-08-27",
+        "Temp_Max": 22.4,
+        "Temp_Min": 11.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2017-09-10",
+        "Temp_Max": 22.4,
+        "Temp_Min": 18.6,
+        "Precipitazione": 1.7,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2017-09-24",
+        "Temp_Max": 29.9,
+        "Temp_Min": 14.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2017-10-15",
+        "Temp_Max": 15.0,
+        "Temp_Min": 11.9,
+        "Precipitazione": 12.5,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2017-10-22",
+        "Temp_Max": 14.7,
+        "Temp_Min": 11.6,
+        "Precipitazione": 1.8,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2017-10-29",
+        "Temp_Max": 28.5,
+        "Temp_Min": 23.0,
+        "Precipitazione": 14.5,
+        "Condizione_Meteo": "Rovesci intensi"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2017-11-12",
+        "Temp_Max": 23.2,
+        "Temp_Min": 10.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2018-03-18",
+        "Temp_Max": 26.7,
+        "Temp_Min": 19.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2018-04-08",
+        "Temp_Max": 25.3,
+        "Temp_Min": 20.0,
+        "Precipitazione": 5.0,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2018-04-22",
+        "Temp_Max": 24.4,
+        "Temp_Min": 11.6,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2018-05-06",
+        "Temp_Max": 24.6,
+        "Temp_Min": 14.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2018-05-20",
+        "Temp_Max": 21.6,
+        "Temp_Min": 7.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2018-06-03",
+        "Temp_Max": 27.1,
+        "Temp_Min": 14.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2018-06-17",
+        "Temp_Max": 24.1,
+        "Temp_Min": 18.4,
+        "Precipitazione": 0.3,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2018-07-01",
+        "Temp_Max": 23.7,
+        "Temp_Min": 14.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2018-07-15",
+        "Temp_Max": 24.1,
+        "Temp_Min": 13.4,
+        "Precipitazione": 0.3,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2018-08-05",
+        "Temp_Max": 29.7,
+        "Temp_Min": 20.6,
+        "Precipitazione": 2.0,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2018-08-12",
+        "Temp_Max": 24.8,
+        "Temp_Min": 13.6,
+        "Precipitazione": 0.6,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2018-08-26",
+        "Temp_Max": 17.4,
+        "Temp_Min": 9.0,
+        "Precipitazione": 8.1,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2018-09-09",
+        "Temp_Max": 25.8,
+        "Temp_Min": 18.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2018-09-23",
+        "Temp_Max": 32.5,
+        "Temp_Min": 20.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Buriram",
+        "Data": "2018-10-07",
+        "Temp_Max": 31.4,
+        "Temp_Min": 23.7,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2018-10-21",
+        "Temp_Max": 20.2,
+        "Temp_Min": 9.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2018-10-28",
+        "Temp_Max": 12.5,
+        "Temp_Min": 9.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2018-11-04",
+        "Temp_Max": 30.6,
+        "Temp_Min": 22.8,
+        "Precipitazione": 15.3,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2018-11-18",
+        "Temp_Max": 14.2,
+        "Temp_Min": 10.9,
+        "Precipitazione": 16.1,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2019-03-10",
+        "Temp_Max": 22.8,
+        "Temp_Min": 13.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2019-03-31",
+        "Temp_Max": 28.5,
+        "Temp_Min": 22.4,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2019-04-14",
+        "Temp_Max": 21.6,
+        "Temp_Min": 8.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2019-05-05",
+        "Temp_Max": 23.1,
+        "Temp_Min": 13.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2019-05-19",
+        "Temp_Max": 16.3,
+        "Temp_Min": 10.2,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2019-06-02",
+        "Temp_Max": 26.2,
+        "Temp_Min": 11.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Prevalentemente soleggiato"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2019-06-16",
+        "Temp_Max": 25.8,
+        "Temp_Min": 15.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2019-06-30",
+        "Temp_Max": 25.5,
+        "Temp_Min": 16.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2019-07-07",
+        "Temp_Max": 19.4,
+        "Temp_Min": 12.3,
+        "Precipitazione": 2.2,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2019-08-04",
+        "Temp_Max": 22.6,
+        "Temp_Min": 13.1,
+        "Precipitazione": 0.2,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2019-08-11",
+        "Temp_Max": 24.4,
+        "Temp_Min": 17.2,
+        "Precipitazione": 2.2,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2019-08-25",
+        "Temp_Max": 29.7,
+        "Temp_Min": 13.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2019-09-22",
+        "Temp_Max": 26.3,
+        "Temp_Min": 18.5,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Buriram",
+        "Data": "2019-10-06",
+        "Temp_Max": 29.9,
+        "Temp_Min": 23.1,
+        "Precipitazione": 7.4,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2019-10-20",
+        "Temp_Max": 23.2,
+        "Temp_Min": 16.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2019-10-27",
+        "Temp_Max": 15.3,
+        "Temp_Min": 10.2,
+        "Precipitazione": 0.7,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2019-11-03",
+        "Temp_Max": 29.9,
+        "Temp_Min": 22.6,
+        "Precipitazione": 6.5,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2020-03-08",
+        "Temp_Max": 27.1,
+        "Temp_Min": 14.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Jerez",
+        "Data": "2020-07-19",
+        "Temp_Max": 37.6,
+        "Temp_Min": 22.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Jerez",
+        "Data": "2020-07-26",
+        "Temp_Max": 39.7,
+        "Temp_Min": 24.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Brno",
+        "Data": "2020-08-09",
+        "Temp_Max": 28.3,
+        "Temp_Min": 19.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2020-08-16",
+        "Temp_Max": 24.7,
+        "Temp_Min": 14.5,
+        "Precipitazione": 4.5,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2020-08-23",
+        "Temp_Max": 23.1,
+        "Temp_Min": 17.1,
+        "Precipitazione": 1.1,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Misano Adriatico",
+        "Data": "2020-09-13",
+        "Temp_Max": 27.3,
+        "Temp_Min": 20.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2020-09-27",
+        "Temp_Max": 18.4,
+        "Temp_Min": 10.4,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2020-10-18",
+        "Temp_Max": 20.0,
+        "Temp_Min": 7.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2020-10-25",
+        "Temp_Max": 22.2,
+        "Temp_Min": 8.3,
+        "Precipitazione": 0.5,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2020-11-08",
+        "Temp_Max": 20.7,
+        "Temp_Min": 11.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2020-11-15",
+        "Temp_Max": 22.2,
+        "Temp_Min": 13.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Portimão",
+        "Data": "2020-11-22",
+        "Temp_Max": 18.9,
+        "Temp_Min": 12.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2021-03-28",
+        "Temp_Max": 26.5,
+        "Temp_Min": 19.5,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Losail",
+        "Data": "2021-04-04",
+        "Temp_Max": 27.0,
+        "Temp_Min": 20.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Portimão",
+        "Data": "2021-04-18",
+        "Temp_Max": 22.6,
+        "Temp_Min": 13.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Jerez de la Frontera",
+        "Data": "2021-05-02",
+        "Temp_Max": 22.3,
+        "Temp_Min": 8.9,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Le Mans",
+        "Data": "2021-05-16",
+        "Temp_Max": 15.5,
+        "Temp_Min": 9.8,
+        "Precipitazione": 2.6,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Mugello",
+        "Data": "2021-05-30",
+        "Temp_Max": 20.2,
+        "Temp_Min": 12.7,
+        "Precipitazione": 0.3,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2021-06-06",
+        "Temp_Max": 25.7,
+        "Temp_Min": 17.7,
+        "Precipitazione": 1.4,
+        "Condizione_Meteo": "Pioggia moderata"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2021-06-20",
+        "Temp_Max": 29.7,
+        "Temp_Min": 20.4,
+        "Precipitazione": 0.6,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Assen",
+        "Data": "2021-06-27",
+        "Temp_Max": 24.3,
+        "Temp_Min": 14.4,
+        "Precipitazione": 2.5,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2021-08-08",
+        "Temp_Max": 19.8,
+        "Temp_Min": 15.0,
+        "Precipitazione": 9.0,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Spielberg",
+        "Data": "2021-08-15",
+        "Temp_Max": 26.9,
+        "Temp_Min": 15.7,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2021-08-29",
+        "Temp_Max": 17.3,
+        "Temp_Min": 10.4,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2021-09-12",
+        "Temp_Max": 29.9,
+        "Temp_Min": 18.2,
+        "Precipitazione": 0.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Circuito delle Americhe",
+        "Data": "2021-10-03",
+        "Temp_Max": 29.6,
+        "Temp_Min": 21.3,
+        "Precipitazione": 0.4,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Misano Adriatico[1]",
+        "Data": "2021-10-24",
+        "Temp_Max": 16.6,
+        "Temp_Min": 11.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Portimão",
+        "Data": "2021-11-07",
+        "Temp_Max": 19.5,
+        "Temp_Min": 8.0,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2021-11-14",
+        "Temp_Max": 19.2,
+        "Temp_Min": 8.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Lusail",
+        "Data": "2022-03-06",
+        "Temp_Max": 26.9,
+        "Temp_Min": 16.6,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Mandalika",
+        "Data": "2022-03-20",
+        "Temp_Max": 29.5,
+        "Temp_Min": 25.1,
+        "Precipitazione": 21.8,
+        "Condizione_Meteo": "Rovesci intensi"
+    },
+    {
+        "Circuito": "Termas de Río Hondo",
+        "Data": "2022-04-03",
+        "Temp_Max": 29.2,
+        "Temp_Min": 15.3,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Soleggiato"
+    },
+    {
+        "Circuito": "Americhe",
+        "Data": "2022-04-10",
+        "Temp_Max": 30.6,
+        "Temp_Min": 17.3,
+        "Precipitazione": 7.1,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Portimão",
+        "Data": "2022-04-24",
+        "Temp_Max": 17.6,
+        "Temp_Min": 8.9,
+        "Precipitazione": 1.1,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Catalogna",
+        "Data": "2022-06-05",
+        "Temp_Max": 27.5,
+        "Temp_Min": 17.8,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Sachsenring",
+        "Data": "2022-06-19",
+        "Temp_Max": 35.7,
+        "Temp_Min": 20.8,
+        "Precipitazione": 2.0,
+        "Condizione_Meteo": "Rovesci leggeri"
+    },
+    {
+        "Circuito": "Silverstone",
+        "Data": "2022-08-07",
+        "Temp_Max": 24.0,
+        "Temp_Min": 11.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Motorland",
+        "Data": "2022-09-18",
+        "Temp_Max": 26.6,
+        "Temp_Min": 14.2,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2022-09-25",
+        "Temp_Max": 25.9,
+        "Temp_Min": 17.1,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Molto nuvoloso"
+    },
+    {
+        "Circuito": "Buriram",
+        "Data": "2022-10-02",
+        "Temp_Max": 29.4,
+        "Temp_Min": 23.2,
+        "Precipitazione": 11.4,
+        "Condizione_Meteo": "Rovesci moderati"
+    },
+    {
+        "Circuito": "Phillip Island",
+        "Data": "2022-10-16",
+        "Temp_Max": 13.5,
+        "Temp_Min": 8.3,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia leggera"
+    },
+    {
+        "Circuito": "Sepang",
+        "Data": "2022-10-23",
+        "Temp_Max": 30.2,
+        "Temp_Min": 22.7,
+        "Precipitazione": 4.8,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Ricardo Tormo",
+        "Data": "2022-11-06",
+        "Temp_Max": 26.8,
+        "Temp_Min": 10.7,
+        "Precipitazione": 0.0,
+        "Condizione_Meteo": "Nuvoloso"
+    },
+    {
+        "Circuito": "Motegi",
+        "Data": "2023-09-30",
+        "Temp_Max": 25.4,
+        "Temp_Min": 19.7,
+        "Precipitazione": 5.1,
+        "Condizione_Meteo": "Pioggia intensa"
+    },
+    {
+        "Circuito": "Aragón",
+        "Data": "2024-08-31",
+        "Temp_Max": 31.8,
+        "Temp_Min": 20.4,
+        "Precipitazione": 0.8,
+        "Condizione_Meteo": "Pioggia moderata"
+    }
+]

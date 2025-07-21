@@ -1,0 +1,305 @@
+id,name,country
+1,Unknown,?
+2,Honda,JP
+3,Ducati,IT
+4,Yamaha,JP
+5,Suzuki,JP
+6,KTM,AT
+7,Aprilia,IT
+8,Triumph,GB
+9,MV Agusta,IT
+10,Benelli,IT
+11,Bimota,IT
+12,BMW,DE
+13,Cagiva,IT
+14,CZ,CZ
+15,Gilera,IT
+16,Harley Davidson,US
+17,Jawa,CZ
+18,Jawa-CZ,CZ
+19,Kawasaki,JP
+20,Malaguti,IT
+21,Moto Guzzi,IT
+22,Peugeot,FR
+23,AJS,?
+24,Norton,?
+25,Velocette,?
+26,Rudge,?
+27,Excelsior,?
+28,Mondial,?
+29,Morini,?
+30,LB,?
+31,Sparta,?
+32,Montesa,?
+33,Parilla,?
+34,EMC-Puch,?
+35,DKW,?
+36,Horex,?
+37,NSU,?
+38,Matchless,?
+39,Adler,?
+40,Lube,?
+41,IFA,?
+42,LEF,?
+43,MZ,?
+44,GMS-NSU,?
+45,Aermacchi,?
+46,EMC,?
+47,Bultaco,?
+48,Bianchi,?
+49,Koenig,?
+50,Kreidler,?
+51,S350,?
+52,S250,?
+53,Tohatsu,?
+54,Ckb,?
+55,Maico,?
+56,Pyrkijca,?
+57,Zanella,?
+58,Ckeb,?
+59,Greeves,?
+60,Paton,?
+61,Assmex,?
+62,Derbi,?
+63,Vostok,?
+64,Bridgestone,?
+65,Husqvarna,?
+66,Royal Enfield,?
+67,Cotton,?
+68,Villiers,?
+69,Seeley,?
+70,Reimo,?
+71,Hannah Paton,?
+72,Jamathi,?
+73,Linto,?
+74,Metisse,?
+75,Ossa,?
+76,Brown Special,?
+77,Westlake,?
+78,Librenti,?
+79,Tomos,?
+80,Garelli,?
+81,Rabassa,?
+82,Broad-Yamaha,?
+83,Rotax,?
+84,Villa,?
+85,Kuhn Seeley,?
+86,Padgett Yamaha,?
+87,Cowles Matchless,?
+88,Morbidelli,?
+89,Brown,?
+90,MZ-RE,?
+91,Crooks Suzuki,?
+92,Minarelli,?
+93,Muench,?
+94,Liengme,?
+95,Cemoto,?
+96,Manx,?
+97,Malanca,?
+98,Monark,?
+99,Yamaha-Yamsel,?
+100,Seel Yamaha,?
+101,Yamsel,?
+102,ARTER-AJS,?
+103,Chat Yamaha,?
+104,Lee-Yamaha,?
+105,Dugdale Yamaha,?
+106,Yamasaki,?
+107,Hemeyla,?
+108,MZ-EGB,?
+109,Jada,?
+110,Ducados,?
+111,Cowles-Yamaha,?
+112,Roton,?
+113,Eigenbau,?
+114,Riga,?
+115,Ahra,?
+116,Mitsui,?
+117,HM,?
+118,HD-Yamaha,?
+119,Piovaticci,?
+120,DRS,?
+121,Yamaha/TZ,?
+122,LGM,?
+123,Smac,?
+124,Carem,?
+125,Italjet,?
+126,Ringhini,?
+127,Danfay Maxton yamaha,?
+128,Special,?
+129,Bender,?
+130,Delta,?
+131,SMZ,?
+132,Condor AGV,?
+133,Danfay Yamaha,?
+134,Mcveigh Yamaha,?
+135,Oakley-Yamaha,?
+136,D.R.M.,?
+137,A.B.F.,?
+138,Bastard,?
+139,Hermetite-SuzukiI,?
+140,Yamaha-Suzuki,?
+141,Nava,?
+142,Rieju,?
+143,Hermette,?
+144,Nava DRS,?
+145,GB Bender,?
+146,Seel Special,?
+147,Seel,?
+148,Motobecane,?
+149,MBA,?
+150,Motoshop,?
+151,Delta Fantic,?
+152,Kreidler Van Veen,?
+153,Iprem,?
+154,Condor,?
+155,EGA,?
+156,Ad Majora,?
+157,Siroko Rotax,?
+158,RJB,?
+159,Sanvenero,?
+160,Motul Bultaco,?
+161,Armstrong,?
+162,Pernod,?
+163,Chevallier,?
+164,ELF,?
+165,Rotax Waddon,?
+166,YAM Bimota,?
+167,Motul,?
+168,YAM Bartol,?
+169,YAM Chevallier,?
+170,Bartol,?
+171,Rotax Real,?
+172,JJ Cobas,?
+173,Rotax Armstrong,?
+174,Morena,?
+175,Krauser,?
+176,Autisa,?
+177,Rotax Kobas,?
+178,Real,?
+179,Casal,?
+180,Rotax EMC,?
+181,Starol,?
+182,Roemer HF,?
+183,Zundapp,?
+184,Monnet Bartol,?
+185,ES,?
+186,Roemer Juchem,?
+187,Parisienne,?
+188,EBB,?
+189,Mig,?
+190,LCR,?
+191,Tunturi,?
+192,Waibel Special,?
+193,KLS,?
+194,GMV,?
+195,Hummel,?
+196,Fior,?
+197,Seel Elit,?
+198,Elf-Honda,?
+199,?,?
+200,T,?
+201,Defi,?
+202,Fior-Honda,?
+203,AGV,?
+204,Sekitoba,?
+205,Diamant,?
+206,Fantic,?
+207,Gazzaniga,?
+208,Seufert,?
+209,Shell,?
+210,ERM,?
+211,Plaisir,?
+212,EMC-Honda,?
+213,Johnson Yamaha,?
+214,Padgett Kawasaki,?
+215,Harris Yamaha,?
+216,ROC Yamaha,?
+217,VRP,?
+218,Rumi,?
+219,ELF 500,?
+220,Modenas KR3,?
+221,TSR,?
+222,Muz Weber,?
+223,Erp Honda,?
+224,Ega Honda,?
+225,BSL,?
+226,NER Honda,?
+227,Proton KR,?
+228,Sabre V4,?
+229,Pulse,?
+230,MD211VF PROTO,?
+231,Harris WCM,?
+232,Moriwaki,?
+233,Blata,?
+234,,?
+235,KR211V,?
+236,Ilmor X3,?
+237,KR212V,?
+238,Ilmor GP,?
+239,FGR,?
+240,Friba,?
+241,Loncin,?
+242,Haojue,?
+243,Suter,?
+244,FTR,?
+245,Motobi,?
+246,Speed Up,?
+247,Pons Kalex,?
+248,I.C.P.,?
+249,RSV,?
+250,Promoharris,?
+251,ADV,?
+252,BQR-Moto2,?
+253,Force GP210,?
+254,MZ-RE Honda,?
+255,Tech 3,?
+256,Lambretta,?
+257,AJR,?
+258,Kalex,?
+259,MIR Racing,?
+260,RBB,?
+261,Mahindra,?
+262,Ten Kate,?
+263,TSR 6,?
+264,ART,?
+265,BQR,?
+266,Ioda-Suter,?
+267,APR,?
+268,BQR-FTR,?
+269,Ioda,?
+270,MZ FTR,?
+271,FTR Honda,?
+272,Kalex KTM,?
+273,Suter Honda,?
+274,TSR Honda,?
+275,Oral,?
+276,FGR Honda,?
+277,KRP Honda,?
+278,IAMT,?
+279,BCL,?
+280,Inmotec,?
+281,FTR Kawasaki,?
+282,PBM,?
+283,Bakker Honda,?
+284,Mistral 610,?
+285,S&B Suter,?
+286,Transfiormers,?
+287,Tech3,?
+288,Bullet,?
+289,MIR Honda,?
+290,Forward Yamaha,?
+291,Avintia,?
+292,Forward KLX,?
+293,Caterham Suter,?
+294,FTR KTM,?
+295,Taylor Made,?
+296,NTS,?
+297,Yamaha Forward,?
+298,TVR,?
+299,Transformiers,?
+300,TM RACING,?
+301,TM,?
+302,Energica,?
+303,Boscoscuro,?
+304,GASGAS,?

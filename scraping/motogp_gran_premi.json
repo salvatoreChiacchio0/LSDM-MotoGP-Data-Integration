@@ -1,0 +1,3132 @@
+[
+    {
+        "Anno": 2005,
+        "Data": "2005-04-10",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Marlboro de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-04-17",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "betandwin.com Grande Premio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-05-01",
+        "Circuito": "Shanghai Circuit",
+        "Nome_Ufficiale": "Taobao.com Grand Prix of China",
+        "Percorso": "5,281 km",
+        "Notturna": "No",
+        "Latitudine": "31.338889",
+        "Longitudine": "121.219722"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-05-15",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Grand Prix Alice de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-06-05",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio Alice d'Italia",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-06-12",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Gauloises de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-06-25",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Gauloises 75th TT Assen",
+        "Percorso": "5,997 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-07-10",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,610 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-07-24",
+        "Circuito": "Donington Park",
+        "Nome_Ufficiale": "betandwin.com British Grand Prix",
+        "Percorso": "4,023 km",
+        "Notturna": "No",
+        "Latitudine": "52.829167",
+        "Longitudine": "-1.375"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-07-31",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Alice Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-08-28",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Gauloises Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-09-18",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-09-25",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Marlboro Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-10-01",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Marlboro Grand Prix of Qatar",
+        "Percorso": "5,38 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-10-16",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Polini Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-10-23",
+        "Circuito": "Istanbul Park Circuit",
+        "Nome_Ufficiale": "Grand Prix of Turkey",
+        "Percorso": "5,34 km",
+        "Notturna": "No",
+        "Latitudine": "40.951667",
+        "Longitudine": "29.405"
+    },
+    {
+        "Anno": 2005,
+        "Data": "2005-11-06",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "betandwin.com Gran Premio de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-03-26",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio betandwin.com de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-04-08",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,38 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-04-30",
+        "Circuito": "Istanbul Park Circuit",
+        "Nome_Ufficiale": "Grand Prix of Turkey",
+        "Percorso": "5,34 km",
+        "Notturna": "No",
+        "Latitudine": "40.951667",
+        "Longitudine": "29.405"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-05-14",
+        "Circuito": "Shanghai Circuit",
+        "Nome_Ufficiale": "Polini Grand Prix of China",
+        "Percorso": "5,281 km",
+        "Notturna": "No",
+        "Latitudine": "31.338889",
+        "Longitudine": "121.219722"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-05-21",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Alice Grand Prix de France",
+        "Percorso": "4,180 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-06-04",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Alice",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-06-18",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Cinzano de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-06-24",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "A-Style TT Assen - 76e Dutch TT",
+        "Percorso": "4,555 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-07-02",
+        "Circuito": "Donington Park",
+        "Nome_Ufficiale": "GAS British Grand Prix",
+        "Percorso": "4,023 km",
+        "Notturna": "No",
+        "Latitudine": "52.829167",
+        "Longitudine": "-1.375"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-07-16",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "betandwin.com Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-07-23",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,602 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-08-20",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Gauloises Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-09-10",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Marlboro Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-09-17",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "GMC Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-09-24",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "A-Style Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-10-15",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "bwin.com Grande Premio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2006,
+        "Data": "2006-10-29",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio bwin.com de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.483333",
+        "Longitudine": "-0.366667"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-03-10",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,38 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-03-25",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin.com de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-04-22",
+        "Circuito": "Istanbul Park Circuit",
+        "Nome_Ufficiale": "Grand Prix of Turkey",
+        "Percorso": "5,34 km",
+        "Notturna": "No",
+        "Latitudine": "40.951667",
+        "Longitudine": "29.405"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-05-06",
+        "Circuito": "Shanghai Circuit",
+        "Nome_Ufficiale": "Sinopec Great Wall Lubricants GP of China",
+        "Percorso": "5,281 km",
+        "Notturna": "No",
+        "Latitudine": "31.338889",
+        "Longitudine": "121.219722"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-05-20",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Alice Grand Prix de France",
+        "Percorso": "4,180 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-06-03",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Alice",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-06-10",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Cinzano de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-06-24",
+        "Circuito": "Donington Park",
+        "Nome_Ufficiale": "Nickel & Dime British Grand Prix",
+        "Percorso": "4,023 km",
+        "Notturna": "No",
+        "Latitudine": "52.829167",
+        "Longitudine": "-1.375"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-06-30",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "77e A-Style Dutch TT Assen",
+        "Percorso": "4,555 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-07-15",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Alice Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-07-22",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,610 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-08-19",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Cardion AB Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-09-02",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Cinzano di San Marino e Riviera di Rimini",
+        "Percorso": "4,18 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-09-16",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "bwin.com Grande Premio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-09-23",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "A-Style Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-10-14",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "GMC Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-10-21",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Polini Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2007,
+        "Data": "2007-11-04",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio bwin.com de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-03-09",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,38 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-03-30",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin.com de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-04-13",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "bwin.com Grande Prémio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-05-04",
+        "Circuito": "Shanghai Circuit",
+        "Nome_Ufficiale": "Pramac Grand Prix of China",
+        "Percorso": "5,281 km",
+        "Notturna": "No",
+        "Latitudine": "31.338889",
+        "Longitudine": "121.219722"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-05-18",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Alice Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-06-01",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Alice",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-06-08",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Cinzano de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-06-22",
+        "Circuito": "Donington Park",
+        "Nome_Ufficiale": "bwin.com British Grand Prix",
+        "Percorso": "4,023 km",
+        "Notturna": "No",
+        "Latitudine": "52.829167",
+        "Longitudine": "-1.375"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-06-28",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "A-Style TT Assen - 78e Dutch TT",
+        "Percorso": "4,555 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-07-13",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Alice Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-07-20",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,602 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-08-17",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Cardion ab Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-08-31",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Cinzano di San Marino e Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-09-14",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,216 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-09-28",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "A-Style Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-10-05",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "2008 Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-10-19",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Polini Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2008,
+        "Data": "2008-10-26",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Parts Europe de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-04-12",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,38 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-04-26",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Polini Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-05-03",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin.com de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-05-17",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-05-31",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Alice",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-06-14",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Cinzano de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-06-27",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Alice TT Assen - 79e Dutch TT",
+        "Percorso": "4,555 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-07-05",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,602 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-07-19",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Alice Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-07-26",
+        "Circuito": "Donington Park",
+        "Nome_Ufficiale": "British Grand Prix",
+        "Percorso": "4,023 km",
+        "Notturna": "No",
+        "Latitudine": "52.829167",
+        "Longitudine": "-1.375"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-08-16",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Cardion ab Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-08-30",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,216 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-09-06",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Cinzano di San Marino e Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-10-04",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "bwin.com Grande Premio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-10-18",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Iveco Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-10-25",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Advance Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2009,
+        "Data": "2009-11-08",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Generali de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-04-11",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-05-02",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-05-23",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-06-06",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-06-20",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "AirAsia British Grand Prix",
+        "Percorso": "5,902 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-06-26",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "TIM TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-07-04",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Aperol de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-07-18",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "eni Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-07-25",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,610 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-08-15",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Cardion ab Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-08-29",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,216 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-09-05",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Aperol di San Marino e Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-09-19",
+        "Circuito": "Motorland Aragón",
+        "Nome_Ufficiale": "Gran Premio A-Style de Aragón",
+        "Percorso": "5,078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-10-03",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-10-10",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Advance Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-10-17",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Iveco Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-10-31",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "bwin Grande Prémio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2010,
+        "Data": "2010-11-07",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "GP Generali de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-03-20",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-04-03",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-05-01",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "bwin Grande Prémio de Portugal",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-05-15",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-06-05",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Aperol de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-06-12",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "AirAsia British Grand Prix",
+        "Percorso": "5,902 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-06-25",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Iveco TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-07-03",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-07-17",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "eni Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-07-24",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,610 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-08-14",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Cardion ab Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-08-28",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,216 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-09-04",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Aperol di San Marino e Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-09-18",
+        "Circuito": "Motorland Aragón",
+        "Nome_Ufficiale": "Gran Premio de Aragón",
+        "Percorso": "5.078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-10-02",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-10-16",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Iveco Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-10-23",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Advance Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2011,
+        "Data": "2011-11-06",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "GP Generali de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-04-08",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-04-29",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-05-06",
+        "Circuito": "Estoril Circuit",
+        "Nome_Ufficiale": "Grande Prémio de Portugal Circuito Estoril",
+        "Percorso": "4,182 km",
+        "Notturna": "No",
+        "Latitudine": "38.750833",
+        "Longitudine": "-9.394167"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-05-20",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-06-03",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Aperol de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-06-17",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Hertz British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-06-30",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Iveco TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-07-08",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "eni Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-07-15",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-07-29",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,610 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-08-19",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,216 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-08-26",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "bwin Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-09-16",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Aperol di San Marino e della Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-09-30",
+        "Circuito": "Motorland",
+        "Nome_Ufficiale": "Gran Premio Iveco de Aragón",
+        "Percorso": "5,078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-10-14",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "AirAsia Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-10-21",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Malaysian Motorcycle Grand Prix",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-10-28",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "AirAsia Australia Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2012,
+        "Data": "2012-11-11",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "GP Generali de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-04-07",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercial Bank Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-04-21",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-05-05",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin de España",
+        "Percorso": "4,423 km ",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-05-19",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-06-02",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-06-16",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Aperol de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-06-29",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Iveco TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-07-14",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "eni Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-07-21",
+        "Circuito": "Laguna Seca",
+        "Nome_Ufficiale": "Red Bull U.S. Grand Prix",
+        "Percorso": "3,610 km",
+        "Notturna": "No",
+        "Latitudine": "36.584722",
+        "Longitudine": "-121.752778"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-08-18",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,216 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-08-25",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "bwin Grand Prix České Republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-09-01",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Hertz British Grand Prix",
+        "Percorso": "5,901 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-09-15",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Aperol di San Marino e Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-09-29",
+        "Circuito": "Motorland",
+        "Nome_Ufficiale": "Gran Premio Iveco de Aragón",
+        "Percorso": "5,078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-10-13",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Advance Malaysian Motorcycle GP",
+        "Percorso": "5,548 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-10-20",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Tissot Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-10-27",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "AirAsia Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2013,
+        "Data": "2013-11-10",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Generali de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-03-23",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercialbank Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-04-13",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-04-27",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "G.P. Red Bull de la República Argentina",
+        "Percorso": "4,806 km",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-05-04",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-05-18",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-06-01",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-06-15",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "GP Monster Energy de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-06-28",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Iveco Daily TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-07-13",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "eni Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-08-10",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,170 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-08-17",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "bwin Grand Prix České Republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-08-31",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Hertz British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-09-14",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP TIM di San Marino e della Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-09-28",
+        "Circuito": "Motorland",
+        "Nome_Ufficiale": "Gran Premio Movistar de Aragón",
+        "Percorso": "5,078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-10-12",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-10-19",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Tissot Australian Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-10-26",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Advance Malaysian Motorcycle GP",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2014,
+        "Data": "2014-11-09",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "GP Generali de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-03-29",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercial Bank Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-04-12",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-04-19",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "G.P. Red Bull de la República Argentina",
+        "Percorso": "4,806 km",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-05-03",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio bwin de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-05-17",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-05-31",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-06-14",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "G.P. Monster Energy de Catalunya",
+        "Percorso": "4,727 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-06-27",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Motul TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-07-12",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "GoPro Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-08-09",
+        "Circuito": "Indianapolis Motor Speedway",
+        "Nome_Ufficiale": "Red Bull Indianapolis Grand Prix",
+        "Percorso": "4,170 km",
+        "Notturna": "No",
+        "Latitudine": "39.794853",
+        "Longitudine": "-86.234822"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-08-16",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "bwin Grand Prix České Republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-08-30",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Octo British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-09-13",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP TIM di San Marino e della Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-09-27",
+        "Circuito": "Motorland",
+        "Nome_Ufficiale": "Gran Premio Movistar de Aragón",
+        "Percorso": "5,078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-10-11",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-10-18",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Pramac Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-10-25",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Malaysia Motorcycle Grand Prix",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2015,
+        "Data": "2015-11-08",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-03-20",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Commercial Bank Grand Prix of Qatar",
+        "Percorso": "5,380 km ",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-04-03",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "Gran Premio Motul de la República Argentina",
+        "Percorso": "4,806 km",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-04-10",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-04-24",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-05-08",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Monster Energy Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-05-22",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia TIM",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-06-05",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,655 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-06-26",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Motul TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-07-17",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "GoPro Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-08-14",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "NeroGiardini Motorrad Grand Prix von Österreich",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-08-21",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "HJC Helmets Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-09-04",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Octo British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-09-11",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP TIM di San Marino e della Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-09-25",
+        "Circuito": "motorland aragon",
+        "Nome_Ufficiale": "Gran Premio Movistar de Aragón",
+        "Percorso": "5,078 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-10-16",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-10-23",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Michelin Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-10-30",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Malaysia Motorcycle Grand Prix",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2016,
+        "Data": "2016-11-13",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "GP Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-03-26",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Grand Prix of Qatar",
+        "Percorso": "5,380 km ",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-04-09",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "Gran Premio Motul de la República Argentina",
+        "Percorso": "4,806 km",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-04-23",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-05-07",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-05-21",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "HJC Helmets Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-06-04",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Oakley",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-06-11",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,655 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-06-25",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Motul TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-07-02",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "GoPro Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-08-06",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Monster Energy Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-08-13",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "NeroGiardini Motorrad Grand Prix von Österreich",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-08-27",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Octo British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-09-10",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "Tribul Mastercard GP S.Marino e Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-09-24",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio Movistar de Aragón",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-10-15",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-10-22",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Michelin Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-10-29",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Malaysia Motorcycle Grand Prix",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2017,
+        "Data": "2017-11-12",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-03-18",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "Sì",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-04-08",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "Gran Premio Motul de la República Argentina",
+        "Percorso": "4,806 km ",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-04-22",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km ",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-05-06",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-05-20",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "HJC Helmets Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-06-03",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Oakley",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-06-17",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,627 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-07-01",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Motul TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-07-15",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Pramac Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-08-05",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Monster Energy Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-08-12",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "Eyetime Motorrad Grand Prix von Österreich",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-08-26",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "GoPro British Grand Prix",
+        "Percorso": "5,9 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-09-09",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "Gran Premio Octo di San Marino e della Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-09-23",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio Movistar de Aragón",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-10-07",
+        "Circuito": "Chang International Circuit",
+        "Nome_Ufficiale": "PTT Thailand Grand Prix",
+        "Percorso": "4,554 km",
+        "Notturna": "No",
+        "Latitudine": "14.962844",
+        "Longitudine": "103.084998"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-10-21",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-10-28",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Michelin Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-11-04",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Malaysia Motorcycle Grand Prix",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2018,
+        "Data": "2018-11-18",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-03-10",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "VisitQatar Grand Prix",
+        "Percorso": "5,380 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-03-31",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "Gran Premio Motul de la República Argentina",
+        "Percorso": "4,806 km ",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-04-14",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km ",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-05-05",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-05-19",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "Shark Helmets Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-06-02",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Oakley",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-06-16",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,627 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-06-30",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Motul TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-07-07",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "HJC Helmets Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-08-04",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Monster Energy Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-08-11",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "myWorld Motorrad Grand Prix von Österreich",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-08-25",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "GoPro British Grand Prix",
+        "Percorso": "5,9 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-09-22",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio Michelin de Aragón",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-10-06",
+        "Circuito": "Chang International Circuit",
+        "Nome_Ufficiale": "PTT Thailand Grand Prix",
+        "Percorso": "4,554 km",
+        "Notturna": "No",
+        "Latitudine": "14.962844",
+        "Longitudine": "103.084998"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-10-20",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-10-27",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Pramac Generac Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2019,
+        "Data": "2019-11-03",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Shell Malaysia Motorcycle Grand Prix",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-03-08",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "QNB Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-07-19",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-07-26",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de Andalucía",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-08-09",
+        "Circuito": "Automotodrom Brno",
+        "Nome_Ufficiale": "Monster Energy Grand Prix České republiky",
+        "Percorso": "5,403 km",
+        "Notturna": "No",
+        "Latitudine": "49.204722",
+        "Longitudine": "16.450556"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-08-16",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "myWorld Motorrad Grand Prix von Österreich",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-08-23",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "BMW M Grand Prix of Styria",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-09-13",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "GP Lenovo di San Marino e della Riviera di Rimini",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-09-27",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,627 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-10-18",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio Michelin de Aragón",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-10-25",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio Liqui Moly de Teruel",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-11-08",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio de Europa",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-11-15",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2020,
+        "Data": "2020-11-22",
+        "Circuito": "Portimao",
+        "Nome_Ufficiale": "Grande Prémio MEO de Portugal",
+        "Percorso": "4,592 km",
+        "Notturna": "No",
+        "Latitudine": "37.2294",
+        "Longitudine": "-8.63053"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-03-28",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Barwa Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-04-04",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Tissot Grand Prix of Doha",
+        "Percorso": "5,380 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-04-18",
+        "Circuito": "Portimao",
+        "Nome_Ufficiale": "Grande Prémio 888 de Portugal",
+        "Percorso": "4,592 km",
+        "Notturna": "No",
+        "Latitudine": "37.2294",
+        "Longitudine": "-8.63053"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-05-02",
+        "Circuito": "Circuito de Jerez",
+        "Nome_Ufficiale": "Gran Premio Red Bull de España",
+        "Percorso": "4,423 km",
+        "Notturna": "No",
+        "Latitudine": "36.708333",
+        "Longitudine": "-6.034167"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-05-16",
+        "Circuito": "Le Mans",
+        "Nome_Ufficiale": "SHARK Grand Prix de France",
+        "Percorso": "4,185 km",
+        "Notturna": "No",
+        "Latitudine": "47.95372",
+        "Longitudine": "0.210779"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-05-30",
+        "Circuito": "Mugello",
+        "Nome_Ufficiale": "Gran Premio d'Italia Oakley",
+        "Percorso": "5,245 km",
+        "Notturna": "No",
+        "Latitudine": "43.9975",
+        "Longitudine": "11.37194"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-06-06",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,657 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-06-20",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Liqui Moly Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-06-27",
+        "Circuito": "TT Circuit Assen",
+        "Nome_Ufficiale": "Motul TT Assen",
+        "Percorso": "4,542 km",
+        "Notturna": "No",
+        "Latitudine": "52.96156",
+        "Longitudine": "6.5233"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-08-08",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "Michelin® Grand Prix of Styria",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-08-15",
+        "Circuito": "Spielberg",
+        "Nome_Ufficiale": "Bitci Motorrad Grand Prix von Österreich",
+        "Percorso": "4,318 km",
+        "Notturna": "No",
+        "Latitudine": "47.219722",
+        "Longitudine": "14.764722"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-08-29",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Monster Energy British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-09-12",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio Tissot de Aragón",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-10-03",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-10-24",
+        "Circuito": "Misano",
+        "Nome_Ufficiale": "Gran Premio Nolan del Made in Italy e dell'Emilia-Romagna",
+        "Percorso": "4,226 km",
+        "Notturna": "No",
+        "Latitudine": "43.961375",
+        "Longitudine": "12.685958"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-11-07",
+        "Circuito": "Portimao",
+        "Nome_Ufficiale": "Grande Prémio Brembo do Algarve",
+        "Percorso": "4,592 km",
+        "Notturna": "No",
+        "Latitudine": "37.2294",
+        "Longitudine": "-8.63053"
+    },
+    {
+        "Anno": 2021,
+        "Data": "2021-11-14",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-03-06",
+        "Circuito": "Lusail International Circuit",
+        "Nome_Ufficiale": "Grand Prix of Qatar",
+        "Percorso": "5,380 km",
+        "Notturna": "No",
+        "Latitudine": "25.49",
+        "Longitudine": "51.45417"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-03-20",
+        "Circuito": "Pertamina Mandalika Circuit",
+        "Nome_Ufficiale": "Pertamina Grand Prix of Indonesia",
+        "Percorso": "4,300 km",
+        "Notturna": "No",
+        "Latitudine": "-8.895423",
+        "Longitudine": "116.304182"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-04-03",
+        "Circuito": "Rio Hondo",
+        "Nome_Ufficiale": "Gran Premio Michelin de la República Argentina",
+        "Percorso": "4,806 km",
+        "Notturna": "No",
+        "Latitudine": "-27.505861",
+        "Longitudine": "-64.914472"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-04-10",
+        "Circuito": "Circuit Of The Americas",
+        "Nome_Ufficiale": "Red Bull Grand Prix of the Americas",
+        "Percorso": "5,513 km",
+        "Notturna": "No",
+        "Latitudine": "30.1328",
+        "Longitudine": "-97.6411"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-04-24",
+        "Circuito": "Portimao",
+        "Nome_Ufficiale": "Grande Prémio Tissot de Portugal",
+        "Percorso": "4,592 km",
+        "Notturna": "No",
+        "Latitudine": "37.2294",
+        "Longitudine": "-8.63053"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-06-05",
+        "Circuito": "Circuit de Barcelona - Catalunya",
+        "Nome_Ufficiale": "Gran Premi Monster Energy de Catalunya",
+        "Percorso": "4,657 km",
+        "Notturna": "No",
+        "Latitudine": "41.57",
+        "Longitudine": "2.261111"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-06-19",
+        "Circuito": "Sachsenring",
+        "Nome_Ufficiale": "Liqui Moly Motorrad Grand Prix Deutschland",
+        "Percorso": "3,671 km",
+        "Notturna": "No",
+        "Latitudine": "50.7906",
+        "Longitudine": "12.6878"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-08-07",
+        "Circuito": "Silverstone Circuit",
+        "Nome_Ufficiale": "Monster Energy British Grand Prix",
+        "Percorso": "5,900 km",
+        "Notturna": "No",
+        "Latitudine": "52.075",
+        "Longitudine": "-1.016667"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-09-18",
+        "Circuito": "Motorland Aragón",
+        "Nome_Ufficiale": "Gran Premio Animoca Brands de Aragón",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-09-25",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-10-02",
+        "Circuito": "Chang International Circuit",
+        "Nome_Ufficiale": "OR Thailand Grand Prix",
+        "Percorso": "4,554 km",
+        "Notturna": "No",
+        "Latitudine": "14.962844",
+        "Longitudine": "103.084998"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-10-16",
+        "Circuito": "Phillip Island",
+        "Nome_Ufficiale": "Animoca Brands Australian Motorcycle Grand Prix",
+        "Percorso": "4,448 km",
+        "Notturna": "No",
+        "Latitudine": "-38.5031",
+        "Longitudine": "145.236"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-10-23",
+        "Circuito": "Sepang International Circuit",
+        "Nome_Ufficiale": "Petronas Grand Prix of Malaysia",
+        "Percorso": "5,543 km",
+        "Notturna": "No",
+        "Latitudine": "2.760556",
+        "Longitudine": "101.7375"
+    },
+    {
+        "Anno": 2022,
+        "Data": "2022-11-06",
+        "Circuito": "Circuit Ricardo Tormo",
+        "Nome_Ufficiale": "Gran Premio Motul de la Comunitat Valenciana",
+        "Percorso": "4,005 km",
+        "Notturna": "No",
+        "Latitudine": "39.485833",
+        "Longitudine": "-0.628056"
+    },
+    {
+        "Anno": 2023,
+        "Data": "2023-09-30",
+        "Circuito": "Motegi",
+        "Nome_Ufficiale": "Motul Grand Prix of Japan",
+        "Percorso": "4,801 km",
+        "Notturna": "No",
+        "Latitudine": "36.533611",
+        "Longitudine": "140.2275"
+    },
+    {
+        "Anno": 2024,
+        "Data": "2024-08-31",
+        "Circuito": " MotorLand Aragón",
+        "Nome_Ufficiale": "Gran Premio GoPro de Aragón 2024",
+        "Percorso": "5,077 km",
+        "Notturna": "No",
+        "Latitudine": "41.07968",
+        "Longitudine": "-0.18724"
+    }
+]
